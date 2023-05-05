@@ -1,0 +1,6 @@
+Were you able to successfully create and execute the pipeline using the provided walkthrough?
+    I got pretty far but did not finish. 
+What (if any) blockers did you encounter?
+    I wasn't sure how to deploy the models as I didn't know where to update the excels and the xgboost models to.
+Do you have any suggestions for improving this material?
+    maybe a quick reminder on where to upload the materials to. 
